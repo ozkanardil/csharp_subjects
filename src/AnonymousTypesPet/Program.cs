@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using AnonymousPets;
+using AnonymousTypesPet;
 
 Console.WriteLine("Anonymous Pets");
 

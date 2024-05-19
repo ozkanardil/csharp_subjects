@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Runtime.CompilerServices;
-using ValueTypeSample.Assets;
+using ValueTypeAsParameterSample.Assets;
 
 Console.WriteLine("Value type as parameter. \n");
 

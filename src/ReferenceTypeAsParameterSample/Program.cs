@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using ReferenceTypeSample.Assets;
+using ReferenceTypeAsParameterSample.Assets;
 
 Console.WriteLine("Reference type sample! \n");
 
