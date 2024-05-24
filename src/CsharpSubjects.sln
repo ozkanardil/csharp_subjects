@@ -11,27 +11,35 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ThrowVsThrowEx", "ThrowVsTh
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ValueAndReferenceTypes", "ValueAndReferenceTypes", "{FBDBB5F0-E6C7-40D2-8CDC-88CA23C9E995}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousTypesEmployee", "AnonymousTypesEmployee\AnonymousTypesEmployee.csproj", "{6FE920D9-3E63-4EC9-8CFC-CB19A8E35773}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnonymousTypesEmployee", "AnonymousTypesEmployee\AnonymousTypesEmployee.csproj", "{6FE920D9-3E63-4EC9-8CFC-CB19A8E35773}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousTypesPet", "AnonymousTypesPet\AnonymousTypesPet.csproj", "{BC7B5169-42C1-40BF-8D11-C3BDFBD6C39F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnonymousTypesPet", "AnonymousTypesPet\AnonymousTypesPet.csproj", "{BC7B5169-42C1-40BF-8D11-C3BDFBD6C39F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousTypeWithUsage", "AnonymousTypeWithUsage\AnonymousTypeWithUsage.csproj", "{1D2AA785-65D0-41B8-8FCB-24730C1C3606}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AnonymousTypeWithUsage", "AnonymousTypeWithUsage\AnonymousTypeWithUsage.csproj", "{1D2AA785-65D0-41B8-8FCB-24730C1C3606}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CilOne", "CilOne\CilOne.csproj", "{D64BE683-5A9B-4C59-B386-113EAA1A0A30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CilOne", "CilOne\CilOne.csproj", "{D64BE683-5A9B-4C59-B386-113EAA1A0A30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StackTrace", "StackTrace\StackTrace.csproj", "{4254DE94-B55E-436C-94D6-27FB14D87651}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StackTrace", "StackTrace\StackTrace.csproj", "{4254DE94-B55E-436C-94D6-27FB14D87651}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThrowExSample", "ThrowExSample\ThrowExSample.csproj", "{29144C6E-2464-4D85-A257-C57969561983}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThrowExSample", "ThrowExSample\ThrowExSample.csproj", "{29144C6E-2464-4D85-A257-C57969561983}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ThrowSample", "ThrowSample\ThrowSample.csproj", "{F91083FE-8C5A-417A-822C-950A941C3CFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThrowSample", "ThrowSample\ThrowSample.csproj", "{F91083FE-8C5A-417A-822C-950A941C3CFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceTypeAsParameterSample", "ReferenceTypeAsParameterSample\ReferenceTypeAsParameterSample.csproj", "{1BFBA031-BAE4-4831-AD0B-1BA75989F08D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReferenceTypeAsParameterSample", "ReferenceTypeAsParameterSample\ReferenceTypeAsParameterSample.csproj", "{1BFBA031-BAE4-4831-AD0B-1BA75989F08D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReferenceTypeWhenCopy", "ReferenceTypeWhenCopy\ReferenceTypeWhenCopy.csproj", "{C47C49C3-EA2D-4E00-8391-20E50F9F24AF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReferenceTypeWhenCopy", "ReferenceTypeWhenCopy\ReferenceTypeWhenCopy.csproj", "{C47C49C3-EA2D-4E00-8391-20E50F9F24AF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueTypeAsParameterSample", "ValueTypeAsParameterSample\ValueTypeAsParameterSample.csproj", "{9A8BE0A2-0872-4A21-B3AF-3D581DCA3A1B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueTypeAsParameterSample", "ValueTypeAsParameterSample\ValueTypeAsParameterSample.csproj", "{9A8BE0A2-0872-4A21-B3AF-3D581DCA3A1B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ValueTypeWhenCopySample", "ValueTypeWhenCopySample\ValueTypeWhenCopySample.csproj", "{9F759C08-799F-43F5-ACCF-0139F9A3F2DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ValueTypeWhenCopySample", "ValueTypeWhenCopySample\ValueTypeWhenCopySample.csproj", "{9F759C08-799F-43F5-ACCF-0139F9A3F2DC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AppsettingsConfigReading", "AppsettingsConfigReading", "{C3EFA01B-DCF0-47B0-95B2-4F189A5AD0A2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppsettingsConfigReading", "AppsettingsConfigReading\AppsettingsConfigReading.csproj", "{CE0F4FC0-1C1C-45AA-B0F4-151E05B022AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppsettingsReadWithOptions", "AppsettingsReadWithOptions\AppsettingsReadWithOptions.csproj", "{863920E0-BCDE-4186-A722-03651D6DC201}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppsettingsReadWithModel", "AppsettingsReadWithModel\AppsettingsReadWithModel.csproj", "{E2C4E0D3-8956-4413-939B-107CDCB4CF9F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -83,6 +91,18 @@ Global
 		{9F759C08-799F-43F5-ACCF-0139F9A3F2DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F759C08-799F-43F5-ACCF-0139F9A3F2DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F759C08-799F-43F5-ACCF-0139F9A3F2DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE0F4FC0-1C1C-45AA-B0F4-151E05B022AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE0F4FC0-1C1C-45AA-B0F4-151E05B022AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE0F4FC0-1C1C-45AA-B0F4-151E05B022AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE0F4FC0-1C1C-45AA-B0F4-151E05B022AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{863920E0-BCDE-4186-A722-03651D6DC201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{863920E0-BCDE-4186-A722-03651D6DC201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{863920E0-BCDE-4186-A722-03651D6DC201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{863920E0-BCDE-4186-A722-03651D6DC201}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2C4E0D3-8956-4413-939B-107CDCB4CF9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C4E0D3-8956-4413-939B-107CDCB4CF9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2C4E0D3-8956-4413-939B-107CDCB4CF9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2C4E0D3-8956-4413-939B-107CDCB4CF9F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -99,6 +119,9 @@ Global
 		{C47C49C3-EA2D-4E00-8391-20E50F9F24AF} = {FBDBB5F0-E6C7-40D2-8CDC-88CA23C9E995}
 		{9A8BE0A2-0872-4A21-B3AF-3D581DCA3A1B} = {FBDBB5F0-E6C7-40D2-8CDC-88CA23C9E995}
 		{9F759C08-799F-43F5-ACCF-0139F9A3F2DC} = {FBDBB5F0-E6C7-40D2-8CDC-88CA23C9E995}
+		{CE0F4FC0-1C1C-45AA-B0F4-151E05B022AA} = {C3EFA01B-DCF0-47B0-95B2-4F189A5AD0A2}
+		{863920E0-BCDE-4186-A722-03651D6DC201} = {C3EFA01B-DCF0-47B0-95B2-4F189A5AD0A2}
+		{E2C4E0D3-8956-4413-939B-107CDCB4CF9F} = {C3EFA01B-DCF0-47B0-95B2-4F189A5AD0A2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CCED34B9-DF12-40E1-97BD-BF722B71779A}
