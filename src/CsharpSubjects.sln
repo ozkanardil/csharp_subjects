@@ -37,9 +37,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "AppsettingsConfigReading", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppsettingsConfigReading", "AppsettingsConfigReading\AppsettingsConfigReading.csproj", "{CE0F4FC0-1C1C-45AA-B0F4-151E05B022AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppsettingsReadWithOptions", "AppsettingsReadWithOptions\AppsettingsReadWithOptions.csproj", "{863920E0-BCDE-4186-A722-03651D6DC201}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppsettingsReadWithOptions", "AppsettingsReadWithOptions\AppsettingsReadWithOptions.csproj", "{863920E0-BCDE-4186-A722-03651D6DC201}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppsettingsReadWithModel", "AppsettingsReadWithModel\AppsettingsReadWithModel.csproj", "{E2C4E0D3-8956-4413-939B-107CDCB4CF9F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AppsettingsReadWithModel", "AppsettingsReadWithModel\AppsettingsReadWithModel.csproj", "{E2C4E0D3-8956-4413-939B-107CDCB4CF9F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExtensionMethods", "ExtensionMethods", "{EA1A1370-2686-471C-A8A5-17C6E8395DB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "ExtensionMethods\ExtensionMethods.csproj", "{CF9174DA-298F-4EE5-97B9-B004B16E6F1F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -103,6 +107,10 @@ Global
 		{E2C4E0D3-8956-4413-939B-107CDCB4CF9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2C4E0D3-8956-4413-939B-107CDCB4CF9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2C4E0D3-8956-4413-939B-107CDCB4CF9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF9174DA-298F-4EE5-97B9-B004B16E6F1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF9174DA-298F-4EE5-97B9-B004B16E6F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF9174DA-298F-4EE5-97B9-B004B16E6F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF9174DA-298F-4EE5-97B9-B004B16E6F1F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -122,6 +130,7 @@ Global
 		{CE0F4FC0-1C1C-45AA-B0F4-151E05B022AA} = {C3EFA01B-DCF0-47B0-95B2-4F189A5AD0A2}
 		{863920E0-BCDE-4186-A722-03651D6DC201} = {C3EFA01B-DCF0-47B0-95B2-4F189A5AD0A2}
 		{E2C4E0D3-8956-4413-939B-107CDCB4CF9F} = {C3EFA01B-DCF0-47B0-95B2-4F189A5AD0A2}
+		{CF9174DA-298F-4EE5-97B9-B004B16E6F1F} = {EA1A1370-2686-471C-A8A5-17C6E8395DB5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {CCED34B9-DF12-40E1-97BD-BF722B71779A}
