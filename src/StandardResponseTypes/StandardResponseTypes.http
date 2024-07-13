@@ -1,0 +1,6 @@
+@StandardResponseTypes_HostAddress = http://localhost:5150
+
+GET {{StandardResponseTypes_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
